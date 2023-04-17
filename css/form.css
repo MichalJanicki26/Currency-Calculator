@@ -1,0 +1,51 @@
+.form {
+    max-width: 400px;
+    margin: auto;
+}
+
+.form__fieldset {
+    border: 2px solid #495867;
+    border-radius: 10px;
+    width: 100%;
+    margin: auto;
+    margin-top: 15%;
+    background-color: #bdd5ea;
+}
+
+.form__legend {
+    border: 2px solid #577399;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #495867
+}
+
+.form__paragraph {
+    padding: 10px;
+    border: 2px solid #577399;
+    border-radius: 12px;
+    width: 100%;
+    background-color: #495867;
+}
+
+.form__label {
+    width: 100%;
+    margin-left: auto;
+}
+
+.form__currency {
+    margin-left: 5px;
+    margin-bottom: 10px;
+    max-width: 30%;
+}
+
+.form__currency--moveRight {
+    margin-left: 15px;
+}
+
+.form__currency--moveDown {
+    margin-top: 5px;
+}
+
+.form__currencyDescription {
+    margin-left: 7px;
+}
